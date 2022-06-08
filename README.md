@@ -1,5 +1,7 @@
 # Intro-Java-Course: Hello World
-This repo contains the combined work from parts 1 & 2 of the "Introduction to Java" course I took as an undergrad. My first lines of code were written in these projects! I am still building on the foundational knowledge I learned here.
+This repo contains the combined work from parts 1 & 2 of the "Introduction to Java" course I took as an undergrad. My first lines of code were written in these projects! I am still building on the foundational knowledge I learned here. 
+
+Please cite both myself and Ediel if you use any of this code.
 
 ## Acknowledgements
 
